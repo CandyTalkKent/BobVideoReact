@@ -1,0 +1,31 @@
+.pc_header_login{
+  float: right !important;
+}
+
+.logo{
+  align-items: center;
+  display: flex;
+}
+
+.logo img{
+  width: 40px;
+  height: 40px;
+}
+
+.logo span{
+  font-size: 20px;
+  padding-left: 3px;
+  font-family: monospace;
+}
+
+.imageblock {
+    float: left;
+}
+
+.custom-card {
+    padding: 5px;
+}
+
+.custom-card p {
+    color: #999;
+}
